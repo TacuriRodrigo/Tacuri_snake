@@ -6,7 +6,7 @@ Questo progetto consiste nello sviluppo del classico gioco "Snake" in Java, util
 Il progetto mira a realizzare il gioco Snake, in cui il giocatore controlla un serpente che si muove all’interno di un’area di gioco con lo scopo di raccogliere cibo e crescere di lunghezza, evitando collisioni. L’obiettivo è sviluppare un’applicazione con un’architettura modulare e una chiara separazione delle responsabilità.
 
 ## 2. Modello di processo
-Si adotterà un modello iterativo e incrementale:
+Si adotterà il modello iterativo e incrementale RUP:
 - **Iterazioni brevi:** Pianificazione, sviluppo, test e revisione in cicli regolari.
 - **Feedback continuo:** Verifica costante delle funzionalità implementate e adattamento del piano in base alle esigenze.
 
@@ -20,7 +20,7 @@ Si adotterà un modello iterativo e incrementale:
 
 ## 4. Standard, linee guida e procedure
 - **Codifica:** Utilizzo delle best practices di Java e rispetto delle convenzioni di naming.
-- **Struttura del progetto:** Organizzazione tramite Maven con directory standard (`src/main/java` e `src/test/java`).
+- **Struttura del progetto:** Organizzazione tramite Maven con directory standard.
 - **Documentazione:** Aggiornamento continuo del README e della documentazione tecnica.
 - **Strumenti:** Eclipse come IDE principale, Papyrus per la modellazione UML e log4j per il logging.
 
@@ -59,7 +59,7 @@ Si adotterà un modello iterativo e incrementale:
 
 ## 11. Budget e programma
 - **Budget:** Non sono previsti costi significativi, essendo tutti gli strumenti utilizzati open source.
-- **Programma:** Il progetto è stimato in 10-15 giorni di sviluppo intensivo, con revisioni settimanali per monitorare e adattare il piano di lavoro.
+- **Programma:** Il progetto è stimato in un mese di sviluppo intensivo, con revisioni settimanali per monitorare e adattare il piano di lavoro.
 
 ## 12. Cambi
 Qualsiasi modifica ai requisiti o alle funzionalità del progetto sarà documentata e gestita tramite GitHub. Le issue e i commit garantiranno la tracciabilità delle modifiche apportate durante lo sviluppo.
